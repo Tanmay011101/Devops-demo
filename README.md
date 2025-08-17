@@ -1,1 +1,1 @@
-This is a test 3 project
+This is a test 3 upgrade project
