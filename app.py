@@ -1,0 +1,1 @@
+print("Hello from app.py inside my docker container!")
